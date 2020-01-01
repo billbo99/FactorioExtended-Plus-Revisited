@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 1. Jan. 2020
+  Changes :
+    - Added thumbnail
+    - Titanium Ore mined from the ground
+      - Smelted into plates
+      - Plates processed into gears, rods and girders
+    - Various recipes have been updated to use; plates, gears, rods and girders
+      - including Low Density Structures & Flying Robot Frames
+---------------------------------------------------------------------------------------------------

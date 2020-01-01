@@ -1,0 +1,15 @@
+{
+  "name": "FactorioExtended-Plus-Mineable_Ores",
+  "version": "0.3.0",
+  "factorio_version": "0.17",
+  "date": "2020-01-01",
+  "title": "FactorioExtended Plus-Mineable_Ores",
+  "author": "billbo99",
+  "homepage": "https://github.com/billbo99/FactorioExtended-Plus-Mineable_Ores or https://discord.gg/UsGHcnk",
+  "description": "",
+  "dependencies": [
+      "base >= 0.17.69", 
+      "FactorioExtended-Plus-Core >= 0.3.0",
+      "stdlib"
+    ]
+}
