@@ -1,8 +1,10 @@
+local Constants = require("constants")
+
 data:extend({	
         {
             type = "resource",
             name = "titanium-ore",
-            icon = "__FactorioExtended-Plus-Mineable_Ores__/graphics/icons/titanium-ore.png",
+            icon = Constants.AssetModName .. "/graphics/icons/titanium-ore.png",
             icon_size = 32,
             flags = {"placeable-neutral"},
             order="a-b-b",
@@ -40,7 +42,7 @@ data:extend({
             {
               sheet =
               {
-                filename = "__FactorioExtended-Plus-Mineable_Ores__/graphics/resources/titanium-ore.png",
+                filename = Constants.AssetModName .. "/graphics/resources/titanium-ore.png",
                 priority = "extra-high",
                 width = 64,
                 height = 64,
@@ -48,7 +50,7 @@ data:extend({
                 variation_count = 8,
                 hr_version =
                 {
-                  filename = "__FactorioExtended-Plus-Mineable_Ores__/graphics/resources/hr-titanium-ore.png",
+                  filename = Constants.AssetModName .. "/graphics/resources/hr-titanium-ore.png",
                   priority = "extra-high",
                   width = 128,
                   height = 128,

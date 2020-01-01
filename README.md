@@ -1,8 +1,8 @@
-# FactorioExtended-Plus: Mineable_Ores
+# FactorioExtended-Plus: Revisited
 
 This mod changes how Titanium ore originates, rather that being leached from iron ore, its now mined from the ground.
 
-Titanium gears, rods and girders have been added as intermediates,  and the below recipes updated to use them.
+Titanium gears, rods and girders have been added as intermediates, and the below recipes updated to use them.
 
 ```
     Recipe                                  Gears       Rods        Plates      Girders
