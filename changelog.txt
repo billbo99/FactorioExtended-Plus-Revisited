@@ -1,8 +1,9 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.3.0
-Date: 1. Jan. 2020
+Version: x.x.x
+Date: xxxx/xx/xx
   Changes :
     - Added thumbnail
+    - Nuclear Power Mk2/3 machines
     - Titanium Ore mined from the ground
       - Smelted into plates
       - Plates processed into gears, rods and girders
