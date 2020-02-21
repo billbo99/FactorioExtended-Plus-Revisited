@@ -1,15 +1,24 @@
 {
-  "name": "FactorioExtended-Plus-Revisited",
-  "version": "0.3.0",
-  "factorio_version": "0.17",
-  "date": "2020-01-01",
-  "title": "FactorioExtended Plus-Revisited",
-  "author": "billbo99",
-  "homepage": "https://github.com/billbo99/FactorioExtended-Plus-Revisited or https://discord.gg/UsGHcnk",
-  "description": "A number of changes to the mod FactorioExtended-Plus",
-  "dependencies": [
-      "base >= 0.17.69", 
-      "FactorioExtended-Plus-Core >= 0.3.0",
-      "stdlib >= 1.3.0"
+    "name": "FactorioExtended-Plus-Revisited",
+    "version": "0.4.0",
+    "factorio_version": "0.18",
+    "date": "2020-01-26",
+    "title": "FactorioExtended Plus-Revisited",
+    "author": "billbo99",
+    "homepage": "https://github.com/billbo99/FactorioExtended-Plus-Revisited",
+    "description": "A number of changes to the mod FactorioExtended-Plus",
+    "dependencies": [
+        "base >= 0.18.0",
+        "(?)FactorioExtended-Plus-CompoundSolars >= 0.1.3",
+        "(?)FactorioCompoundMiners >= 0.1.6",
+        "FactorioExtended-Plus-Core >= 0.4.0",
+        "FactorioExtended-Plus-Equipment >= 0.4.0",
+        "FactorioExtended-Plus-Logistics >= 0.4.0",
+        "FactorioExtended-Plus-Machines >= 0.4.0",
+        "FactorioExtended-Plus-Power >= 0.4.0",
+        "FactorioExtended-Plus-Storage >= 0.4.0",
+        "FactorioExtended-Plus-Transport >= 0.4.0",
+        "FactorioExtended-Plus-Weaponry >= 0.4.0",
+        "stdlib >= 1.4.0"
     ]
 }
