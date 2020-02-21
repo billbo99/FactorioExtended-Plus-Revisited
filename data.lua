@@ -1,8 +1,4 @@
-require("prototypes.entity.resources")
-require("prototypes.entity.blast-furnace")
-
-require("prototypes.item.items")
-
-require("prototypes.recipe.recipes")
-
-require("prototypes.technology.technology")
+require("prototypes.entity.__init__")
+require("prototypes.item.__init__")
+require("prototypes.recipe.__init__")
+require("prototypes.technology.__init__")
